@@ -1,5 +1,5 @@
 # cssiproject
-CSSI Project
+CSSI Project - Erick
 
 Alex Zhu - April 2nd, 1998 B.C.
 SSN: 666-66-6666
