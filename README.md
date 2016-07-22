@@ -1,6 +1,4 @@
-# cssiproject
-CSSI Project - Erick
-
+# Git Rekt. what did the fish say when he hit the wall in the river? DAM!
 
 Alex Zhu - April 2nd, 1998 B.C.
 SSN: 666-66-6666
