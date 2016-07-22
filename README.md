@@ -1,4 +1,5 @@
-# what did the fish say when he hit the wall in the river? DAM!
+# Git Rekt. what did the fish say when he hit the wall in the river? DAM!
+>>>>>>> d836dd1e3bcdcd0532a05f4cd206ecc78e1c4ad8
 CSSI Project
 
 Alex Zhu - April 2nd, 1998 B.C.
