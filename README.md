@@ -1,4 +1,4 @@
-# cssiproject
+# what did the fish say when he hit the wall in the river? DAM!
 CSSI Project
 
 Alex Zhu - April 2nd, 1998 B.C.
@@ -10,4 +10,4 @@ Best App Ever
 
 Hariklia Frangos -- but you can call me Aria or Klia
 December 19, 1997
-haha jk 
+haha jk
