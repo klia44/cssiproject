@@ -10,4 +10,4 @@ Best App Ever
 
 Hariklia Frangos -- but you can call me Aria or Klia
 December 19, 1997
-haha I'm the oldest
+haha jk 
